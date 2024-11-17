@@ -1,8 +1,8 @@
-# FAWE-1.8-Reborn
-
-A functional version of FastAsyncWorldEdit for Minecraft 1.8.8 in 2024.
-
-![FAWE Logo](https://i.imgur.com/Q2S1244.png)
+<p align="center">
+  <h1>FAWE-1.8-Reborn</h1>
+  <p>A functional version of FastAsyncWorldEdit for Minecraft 1.8.8 in 2024.</p>
+  <img src="https://i.imgur.com/Q2S1244.png" alt="FAWE Logo" />
+</p>
 
 ## Download
 
